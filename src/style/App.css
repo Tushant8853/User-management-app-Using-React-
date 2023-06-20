@@ -1,0 +1,45 @@
+.container{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.h1-div {
+    text-align: center;
+    margin-top: 0;
+}
+
+.page-center {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.editUser-div{
+    text-align: center;
+    margin-top: 0;
+}
+
+.editUser-div {
+    display: flex;
+    justify-content: center;
+}
+  
+.centered-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+  
+.deleteUser-div,
+.updateUser-div {
+    flex-basis: 50%;
+    padding: 25px;
+}
+  

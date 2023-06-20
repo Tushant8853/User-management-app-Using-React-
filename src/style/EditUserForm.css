@@ -1,0 +1,21 @@
+.edit-form{
+    display: flex;
+    flex-direction: column;
+}
+.submit-btn {
+    padding: 8px 16px;
+    background-color: #1762ca;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submit-btn-save{
+    padding: 8px 16px;
+    background-color: #1762ca;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
